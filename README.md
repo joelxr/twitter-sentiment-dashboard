@@ -2,6 +2,9 @@
 
 This is a simple real-time dashboard to see what people are saying on Twitter and check out if they're having positive or negative thoughts.
 
+![Dashboard](./media/analyzer.png)
+![Demo](./media/analyzer.mov)
+
 ## Overview
 
 Imagine if one can simply open a tool to see the current mood of Twitter in general, you don't have to read tons of tweets you only need to open this tool and wait for it to read all this, a few seconds later you can see everybody just mad about something that the president said or a bunch of people spreading their love only because they can.
