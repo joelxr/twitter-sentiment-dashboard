@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Mono&family=VT323&display=swap');
+body {
+  font-family: 'Nova Mono', monospace;
+  font-size: 0.9rem;
+  background-color: #1a202c;
+  color: #edf2f7;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
